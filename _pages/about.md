@@ -8,43 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Position
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+University Professor at Universidad de La Laguna 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Area (Spanish Ministry)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In Spain, permanent university teaching staff must be assigned to one of the branches of knowledge established by the ministry in charge of Universities. (See for example [this catalog](https://www.ub.edu/portal/documents/34829/459928/areas_conocimiento.pdf/db1d283f-1f49-4141-a51e-80a47bcb1b1a) at UB).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Lenguajes y Sistemas Informáticos (Languages and Computer Systems)
+* Area Code: 570 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Researcher IDs
 
-**Markdown generator**
+* ORCID: 0000-0002-4908-8643
+* ResearcherID (Web of Science): L-9730-2014
+* AuthorID (Scopus): 57192126544
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## CV Summary 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Casiano Rodriguez-Leon obtained the degree in Mathematical Sciences in 1978. In 1987 he read the thesis and obtained the Doctor's Degree in Mathematics. In his thesis contributions were made to the design and complexity analysis of optimization algorithms. During this period he participated as main researcher in projects financed by the Government of the Canary Islands and the University of La Laguna. Later he has carried out two research stays at the [EPCC - Edinburgh Parallel Computing Center](https://www.epcc.ed.ac.uk/research), one at [East Stroudsburg University (USA)](https://www.esu.edu/), three as visiting professor at the [University of Valenciennes (France), now Polytechnic University of Hauts-de-France](https://fr.wikipedia.org/wiki/Universit%C3%A9_polytechnique_des_Hauts-de-France) working with prof. [Rumen Andonov](https://scholar.google.es/citations?user=N8kejj8AAAAJ&hl=es) and four as invited professor at  [Universidad Nacional de San Luis (Argentina)](http://www.unsl.edu.ar/) invited by [Prof. Raul Gallard](https://www.researchgate.net/scientific-contributions/Raul-Hector-Gallard-70648676). He contributed to the parallelization of algorithmic divide and conquer, dynamic programming and branch and bound techniques. These works lead to the PhD  theses of Felix García López, [Francisco Almeida Rodríguez](https://scholar.google.es/citations?user=kWvhQTUAAAAJ&hl=es) and [Daniel González Morales](https://www.researchgate.net/scientific-contributions/Daniel-Gonzalez-Morales-70477196) and the subsequent published articles. He lead the ULL research team of the related coordinated projects TIC99-0754-C03-01 and [MaLLBa (TIC99-0754-C03-01)](https://www.researchgate.net/publication/226315228_MALLBA_A_Library_of_Skeletons_for_Combinatorial_Optimisation). His contributions in the field on Parallel Processing Languages produced a number of PHD thesis: [Coromoto León](https://scholar.google.es/citations?user=L4AkM5MAAAAJ&hl=es) and [Francisco de Sande](https://scholar.google.com/citations?user=giHnJE0AAAAJ&hl=es). Another line of research has been the study of computational complexity models and performance analysis for parallel processing. More precisely the Bulk Synchronous Parallel Model (BSP). This line beared to the thesis of Jose Luis Roda García (ULL) and [Marcela Printista (Universidad Nacional de San Luis, Argentina)](https://scholar.google.es/citations?user=P0iSBhMAAAAJ&hl=es). His studies on the best topologies for parallel computing and nested parallelism resulted in the discovery of dynamic hypercubes structures that are suitable for nested computing and was the core of the PhD thesis of Fabiana Piccoli (Universidad Nacional de San Luis, Argentina). He was a [Perl hacker](https://www.perlmonks.org/?node_id=626604) and his contributions to the Comprehensive Perl Archive CPAN are well known. Among them is [Eyapp](https://metacpan.org/pod/distribution/Parse-Eyapp/eyapp#COPYRIGHT), a [nested LR parser](https://www.researchgate.net/publication/220117739_Solving_Difficult_LR_Parsing_Conflicts_by_Postponing_Them) that produced several articles on the subject. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+He has participated in several national projects lead by Prof. Coromoto León, like [TRACER (TIC2002-04498- C05-05)](http://www.ia.urjc.es/jspTIN2004/informes/TIC2002-04498-C05.pdf) which addresses the study of efficient and flexible algorithmic techniques that allow users to focus solely on the problem they wish to solve, avoiding having to enter areas other than their domain. The coordinated project "Optimization and network environment" - OPLINK (TIN2005-08818-C04-04), the main objective is to improve the results of communication problems. In MSTAR (TIN2008-06491-C04-02) the possibility of undertaking the resolution of a problem directly as a multi-objective is introduced. The agglutination of the resolution of multiple optimization problems with parallel techniques and their possible generalization has been the main objective of the TOP project (TIN2011-25448).  In the TOMAS (TIN2016-78410-R) project meta-heuristic optimization techniques were applied to the planning of dietary menus. He has also leaded several projects for the acquisition of infrastructure that conducted to the fundation of the ULL service for Supercomputing (https://www.ull.es/servicios/segai/servicios/saii/). 
+
+He has directed hundreds of [bachelor degree final projects](https://riull.ull.es/xmlui/discover),  tens of Master thesis,  and seven [doctoral theses](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=casiano%20rodriguez%20leon&filtros.DOCUMENTAL_FACET_ENTIDAD=tes). One of them has received the extraordinary doctorate prize in Science of the ULL. At this stage of his research, he has published more than twenty articles in journals and more than fifty documents in the proceedings of international conferences. In the transfer section see the many contributions in CPAN,  the software tools developed as a result of several  projects like MaLLBa, METCO and SCHOOLTHY;  all distributed under a GNU public license. He is an advocate of GitHub Education Technologies and has several related articles and works on Computer Science Education.
+
+
+## Links
+
+* [Page at E-guia Universidad de La Laguna](https://www.ull.es/apps/guias/guias/view_teacher_niu/745/(%3FPcrguezl.*)/)
+* [Page at GitHub Education Community](https://education.github.community/u/crguezl/summary)
+* [Publications at RIULL ](https://riull.ull.es/xmlui/browse?authority=1585&type=author)
+* [npm](https://www.npmjs.com/~crguezl)
+* [meta::cpan](https://metacpan.org/author/CASIANO)
+    - [Eyapp](https://metacpan.org/pod/distribution/Parse-Eyapp/lib/Parse/Eyapp/eyapp) (currently maintained by [William N. Braswell, ](https://metacpan.org/author/WBRASWELL))
+* [Orcid.org](https://orcid.org/0000-0002-4908-8643)
+* [Scholar.google.es](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
+* [Scopus](https://www-scopus-com.accedys2.bbtk.ull.es/authid/detail.uri?authorId=57192126544)
