@@ -17,7 +17,7 @@ tags:
  
 > Eso es aquí. Esa es nuestra casa. Esos somos nosotros. Ahí están todos los que amas, todos los que conoces, todos de los que has oído hablar, todos los seres humanos que alguna vez fueron.
 
-![]({{site.baseurl}}/assets/images/dibujo-juana-astronauta.jpg)
+![]({{site.baseurl}}/images/dibujo-juana-astronauta.jpg)
 
 > El conjunto de nuestras alegrías y sufrimientos, miles de religiones, ideologías y doctrinas económicas. Cada cazador y cada recolector, cada héroe y cada cobarde, cada creador y cada destructor de civilización, cada rey y cada campesino, cada joven pareja enamorada, cada madre y padre, cada hijo esperanzado, cada inventor y cada explorador, cada maestro de moral, cada político corrupto, cada superestrella, cada líder supremo, cada santo y cada pecador en la Historia de nuestra especie vivió ahí, en una mota de polvo suspendida en un rayo de sol.
 
