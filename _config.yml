@@ -84,14 +84,16 @@ author:
   avatar           : "casiano-rodriguez-leon.jpg" # "profile.png"
   bio              : "Working at Universidad de La Laguna"
   location         : "San Cristobal de La Laguna"
-  employer         : "ULL"
+  employer         : 
+    url: "https://www.ull.es"
+    name: "ULL"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es" # "http://yourfullgooglescholarurl.com"
   email            : "crguezl@ull.edu.es"
   researchgate     : "https://www.researchgate.net/profile/Casiano_Rodriguez-Leon" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
+  bitbucket        : "https://bitbucket.org/casiano/"
+  codepen          : "https://codepen.io/crguezl"
   dribbble         :
   flickr           :
   facebook         :
