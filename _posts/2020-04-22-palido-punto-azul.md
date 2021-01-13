@@ -6,7 +6,7 @@ tags:
   - Carl Sagan
 ---
 
-# Un Punto Azul Pálido
+# Un Punto Azul Pálido 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Voyager_1_-_14_February_1990.png)
 
