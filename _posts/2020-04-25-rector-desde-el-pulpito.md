@@ -1,5 +1,10 @@
 ---
-layout: minimal
+title: 'La historia que el rector de la iglesia contó desde el púlpito'
+date: 2020-04-25
+permalink: /posts/2020/04/borges
+tags:
+  - Jorge Luis Borges
+  - Literatura Fantástica
 ---
 
 # La historia que el rector de la iglesia contó desde el púlpito
