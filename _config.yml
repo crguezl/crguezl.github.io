@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4908-8643" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/1190315/casiano # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/channel/UCBtBmp_GxuvbzQcrnQV7R9A"
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
