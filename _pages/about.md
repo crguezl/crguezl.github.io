@@ -47,10 +47,3 @@ He has directed hundreds of [bachelor degree final projects](https://riull.ull.e
 * [Scholar.google.es](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
 * [Scopus](https://www-scopus-com.accedys2.bbtk.ull.es/authid/detail.uri?authorId=57192126544)
 
-## Marcela Printista Links
-
-* [Google Scholar](https://scholar.google.es/citations?user=P0iSBhMAAAAJ&hl=es)
-
-## Maria Fabiana Piccoli Links
-
-* [ResearchGate](https://www.researchgate.net/profile/Fabiana_Piccoli)
