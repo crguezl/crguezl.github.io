@@ -15,3 +15,7 @@ collection: portfolio
 ## Maria Fabiana Piccoli 
 
 * [ResearchGate](https://www.researchgate.net/profile/Fabiana_Piccoli)
+
+## Rumen Andonov
+
+* [Google Scholar](https://scholar.google.es/citations?user=N8kejj8AAAAJ&hl=es)
