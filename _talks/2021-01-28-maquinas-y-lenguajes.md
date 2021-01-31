@@ -16,6 +16,6 @@ Una introducción a los fundamentos de la computación
 
 ## Trasparencias 
 
-Descragar [PDF]({{site.baseurl}}/assets/MAQUINAS-Y-LENGUAJES-RSEAPT.pdf)
+Descargar [PDF]({{site.baseurl}}/assets/MAQUINAS-Y-LENGUAJES-RSEAPT.pdf)
 
 
