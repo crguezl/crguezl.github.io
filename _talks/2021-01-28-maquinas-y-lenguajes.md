@@ -10,7 +10,6 @@ location: "San Cristóbal de La Laguna, Tenerife"
 
 Una introducción a los fundamentos de la computación
 
-
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCmMruVvnrc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
