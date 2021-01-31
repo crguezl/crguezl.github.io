@@ -76,7 +76,8 @@ for row, item in talks.iterrows():
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
-        md += 'type: "Talk"\n'
+        md += 'type: "Talk"
+published: false\n'
     
     md += "permalink: /talks/" + html_filename + "\n"
     
