@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "crguezl"
+  github           : ["crguezl", "casiano"]
   google_plus      :
   keybase          :
   instagram        :
@@ -117,6 +117,8 @@ author:
   xing             :
   youtube          : "UCBtBmp_GxuvbzQcrnQV7R9A"
   wikipedia        : 
+  dblp             : ["55/4266", "51/5261"]
+  npm              : ["crguezl", "casiano"]
 
 
 # Reading Files

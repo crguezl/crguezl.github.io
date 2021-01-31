@@ -46,6 +46,10 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.dblp %}
+        <li><a href="https://dblp.org/pid/{{ author.dblp[0] }}"><i class="fab ai ai-dblp-square" aria-hidden="true"></i> DBLP Rodriguez-Leon</a></li>
+        <li><a href="https://dblp.org/pid/{{ author.dblp[1] }}"><i class="fab ai ai-dblp-square" aria-hidden="true"></i> DBLP Casiano Rodriguez</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -83,7 +87,8 @@
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github[0] }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github crguezl</a></li>
+        <li><a href="https://github.com/{{ author.github[1] }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github casiano</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -93,6 +98,10 @@
       {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
+      {% endif %}
+      {% if author.npm %}
+        <li><a href="https://www.npmjs.com/~{{ author.npm[0] }}"><i class="fab fa-fw fa-npm" aria-hidden="true"></i> npm crguezl</a></li>
+        <li><a href="https://www.npmjs.com/~{{ author.npm[1] }}"><i class="fab fa-fw fa-npm" aria-hidden="true"></i> npm casiano</a></li>
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
@@ -124,6 +133,7 @@
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
+
     </ul>
   </div>
 </div>
