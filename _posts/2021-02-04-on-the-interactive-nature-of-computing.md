@@ -12,7 +12,7 @@ The reading took me to my first years teaching computability.
 At that time, I remember feeling uneasy while teaching a subject named *Automata Theory and Formal Languages* with questions (that I kept only to myself :smile:) like:
 
 * *"What do operating systems compute?"*, 
-* *"What does my word processor computes?"* 
+* *"What does a word processor computes?"* 
 
 Goldin's paper is an attempt to tackle questions like these by introducing a new type of computing model they  name *Persistent Turing Machines*. Let me quote a couple of paragraphs
 
