@@ -27,7 +27,8 @@ Summarizing, the conclusion of the paper is that the statement
 is **false**
 
 
-So let me pose you in the next sections a few problems in attempt to see if a Turing Machines with ordinary powers can solve open, non-terminating processes involving multiple inputs interleaved with outputs.
+So let me pose you in the next sections a few problems.
+It is my attempt to see if a Turing Machines with ordinary powers can solve open, non-terminating processes involving multiple inputs interleaved with outputs.
 
 ## Problem: The Asynchronous Sum (ASP)
 
