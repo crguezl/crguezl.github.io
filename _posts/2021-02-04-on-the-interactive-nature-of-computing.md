@@ -9,7 +9,7 @@ tags:
 
 I have read with great interest the paper  [*The Interactive Nature of Computing: Refuting the Strong Church–Turing Thesis*](#goldin-interactive) by Dina Goldin and Peter Wegner. 
 The reading took me to my first years teaching computability.
-At that time, I remember feeling uneasy while teaching Automata Theory and Formal Languages with questions (that I kept only to myself :smile:) like:
+At that time, I remember feeling uneasy while teaching a subject named *Automata Theory and Formal Languages* with questions (that I kept only to myself :smile:) like:
 
 * *"What do operating systems compute?"*, 
 * *"What does my word processor computes?"* 
