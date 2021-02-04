@@ -75,7 +75,7 @@ The output tapes of of this problem should be two time series:
 * One that shows the position of the wheel (e.g., in degrees from the vertical) during the drive, and 
 * Another to show the pressure on the gas and break pedals during the drive.
 
-## Solutions 
+## Leaving your Solutions 
 
 Give your solution in the comments below. You have to autheticate with GitHub. 
 Use  markdown to format your comments.
