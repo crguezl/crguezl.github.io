@@ -7,6 +7,25 @@ tags:
   - Church Turing Thesis
 ---
 
+I have read with great interest the paper  [*The Interactive Nature of Computing: Refuting the Strong Church–Turing Thesis*](#goldin-interactive) by Dina Goldin and Peter Wegner. 
+The reading took me to my first years teaching computability.
+At that time, I remember feeling uneasy while teaching the Fundamentals of Computability with questions (that I kept only to myself :smile:) like:
+
+* *"What do operating systems compute?"*, 
+* *"What does my word processor computes?"* 
+
+This paper is an attempt to tackle questions like these by introducing a new type of computing model they  name *Persistent Turing Machines*. Let me quote a couple of paragraphs
+
+> Function-based computation transforms a finite input into a finite output in a finite amount of time, in a closed-box fashion. By contrast, the general notion of computation includes arbitrary procedure and processes--which may be open, non-terminating, and involving multiple inputs interleaved with outputs.
+
+> We believe it is time  to recognize that today's computing applications, such as web services, intelligent agents, operating systems, and graphical user interfaces, are *interactive* rather than *algorithmic*; their job is provide ongoing services over time
+
+Summarizing, the conclusion of the paper is that the statement 
+
+**A Turing Machine can do anything that a computer can do**
+
+is **false**
+
 ## Problem: The Asynchronous Sum (ASP)
 
 Write an Ordinary Turing machine that adds two numbers in unary.
@@ -21,7 +40,7 @@ The following considerations apply:
 * Numbers (coded in unary) are'nt in the  input tape at the beginning of computation
 * Instead, the ones and separators are entered in asynchronous/unknown times with an encoding like the one below to add 3 and 4
 
-   ``` 
+   ```
    111X1111X
    ``` 
    (3 ones, an `X` that acts as a separator, 4 ones and an `X`)
@@ -29,6 +48,10 @@ The following considerations apply:
 * Of course when they have not been written the cell contains a blank
 * The rest of the tape is filled with white
 * The machine in addition to being able to move its read/write heads to the left (`L`) and right (` R`) is endowed with a capacity of **NO** movement `S`
+
+## Problem: The Infinite Case
+
+Extend the previous Turing Machine so that once it finish the computation it keeps adding the asynchronously incoming numbers forever
 
 ## Problem: Driving home from work (DHFWP)
 
@@ -55,8 +78,7 @@ Use  markdown to format your comments.
 
 ## References
 
-* [The Church-Turing Thesis: Breaking the Myth](https://www.researchgate.net/publication/221652812_The_Church-Turing_Thesis_Breaking_the_Myth) by Dina Goldin and Peter Wegner.
+1. <a name="goldin-myth"></a> [The Church-Turing Thesis: Breaking the Myth](https://www.researchgate.net/publication/221652812_The_Church-Turing_Thesis_Breaking_the_Myth) by Dina Goldin and Peter Wegner.
 Lecture Notes in Computer Science 3526:152-168
-
-* [The Interactive Nature of Computing: Refuting the Strong Church–Turing Thesis](https://link.springer.com/article/10.1007/s11023-007-9083-1) by Dina Goldin and Peter Wegner in *Minds and Machines volume 18, pages17–38(2008)*
-* [Wikipedia: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
+2. <a name="goldin-interactive"></a> [The Interactive Nature of Computing: Refuting the Strong Church–Turing Thesis](https://link.springer.com/article/10.1007/s11023-007-9083-1) by Dina Goldin and Peter Wegner in *Minds and Machines volume 18, pages17–38(2008)*
+3. [Wikipedia: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
