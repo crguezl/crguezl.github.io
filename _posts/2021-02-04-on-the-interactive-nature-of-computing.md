@@ -77,7 +77,7 @@ The output tapes of of this problem should be two time series:
 
 ## Leaving your Solutions 
 
-Give your solution in the comments below. You have to autheticate with GitHub. 
+Give your solution in the comments below. You have to autheticate with GitHub to leave your comments. 
 Use  markdown to format your comments.
 
 ## References
