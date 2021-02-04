@@ -28,7 +28,7 @@ is **false**
 
 
 So let me pose you in the next sections a few problems.
-It is my attempt to see if a Turing Machines with ordinary powers can solve open, non-terminating processes involving multiple inputs interleaved with outputs.
+It is my attempt to see if a [Turing Machine](#wikipedia) with ordinary powers can solve open, non-terminating processes involving multiple inputs interleaved with outputs.
 
 ## Problem: The Asynchronous Sum (ASP)
 
@@ -85,4 +85,4 @@ Use  markdown to format your comments.
 1. <a name="goldin-myth"></a> [The Church-Turing Thesis: Breaking the Myth](https://www.researchgate.net/publication/221652812_The_Church-Turing_Thesis_Breaking_the_Myth) by Dina Goldin and Peter Wegner.
 Lecture Notes in Computer Science 3526:152-168
 2. <a name="goldin-interactive"></a> [The Interactive Nature of Computing: Refuting the Strong Church–Turing Thesis](https://link.springer.com/article/10.1007/s11023-007-9083-1) by Dina Goldin and Peter Wegner in *Minds and Machines volume 18, pages17–38(2008)*
-3. [Wikipedia: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
+3. <a name="wikipedia"></a>[Wikipedia: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
