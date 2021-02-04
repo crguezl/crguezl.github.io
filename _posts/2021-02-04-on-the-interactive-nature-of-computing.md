@@ -14,7 +14,7 @@ At that time, I remember feeling uneasy while teaching a subject named *Automata
 * *"What do operating systems compute?"*, 
 * *"What does a word processor computes?"* 
 
-Goldin's paper is an attempt to tackle questions like these by introducing a new type of computing model they  name *Persistent Turing Machines*. Let me quote a couple of paragraphs
+Goldin's paper is an attempt to tackle questions like these by introducing a new type of computing model they  name *Persistent Turing Machines*. To give you an idea of the thread of reasonment, let me quote a couple of paragraphs
 
 > Function-based computation transforms a finite input into a finite output in a finite amount of time, in a closed-box fashion. By contrast, the general notion of computation includes arbitrary procedure and processes--which may be open, non-terminating, and involving multiple inputs interleaved with outputs.
 
