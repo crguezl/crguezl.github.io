@@ -8,10 +8,13 @@ comments: true
 
 <em>It appears you have stumbled onto the dark hole page of my website.</em> 
 <br/>
-What brought you here?. This page was built to catch the wanderers who have gone astray. 
+What brought you here?. 
+<br/>
+This page was built to catch the wanderers who have gone astray. 
 <br/>
 
 <a href="/">Goodbye</a>.
+<br/>
 
 <div>
 <style>
@@ -31,7 +34,7 @@ img, #quote, #comment-cat {
 <br/>
 <div id="quote"></div>
 <div id="author"></div>
-
+<br/>
 
 <script type="text/javascript">
 
@@ -50,7 +53,8 @@ const getCatAndQuote = async function() {
     console.log(`Initiating connection to ${URL}`);
     let response = await fetch(URL, {
        headers: {
-       'x-api-key': "3ba18862-b370-41c7-8c42-389dd505b7a0"
+        'User-agent': 'Mozilla/4.0 Custom User Agent',
+        'x-api-key': "3ba18862-b370-41c7-8c42-389dd505b7a0"
        }
     });
     
