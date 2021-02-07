@@ -7,7 +7,7 @@ tags:
   - Arquitectura
 ---
 
-# Luis Alemany Oreilla (Draft)
+# Luis Alemany Oreilla 
 
 
 ## Referencias
