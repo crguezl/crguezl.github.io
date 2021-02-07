@@ -5,7 +5,7 @@ var addressPoints = [
     -16.244002941617833
   ],
   [
-    "Las Palmas de Gran Canaria (Invited Lecturer, several times)",
+    "Las Palmas de Gran Canaria (PDP 2002 Keynote Speaker)",
     28.071499524297575, -15.453738659056587
   ],
   [
@@ -39,7 +39,7 @@ var addressPoints = [
     45.434483053974915, 12.338089540296808
   ],
   [
-    "Mantua (PDP)",
+    "Mantua (PDP 2001)",
     45.160497168923804, 10.788942542152851
   ],
   [ 
