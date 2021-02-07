@@ -52,7 +52,8 @@ const getCatAndQuote = async function() {
     let response = await fetch(URL, {
        headers: {
         'User-agent': 'Mozilla/4.0 Custom User Agent',
-        'x-api-key': "3ba18862-b370-41c7-8c42-389dd505b7a0"
+        'x-api-key': "3ba18862-b370-41c7-8c42-389dd505b7a0",
+        'Content-Type': 'application/json'
        }
     });
     
