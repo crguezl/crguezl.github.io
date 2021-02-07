@@ -2,6 +2,7 @@
 layout: single
 permalink: /search/
 title: Search
+comments: true
 ---
 
 {% capture initSearch %}
