@@ -79,11 +79,11 @@ var addressPoints = [
     60.19120650268005, 24.956858688604846
   ],
   [
-    "Athens, Georgia",
+    "Athens, Georgia, NATUG 7",
     33.945099365107765, -83.37777271345252
   ],
   [
-    "Versailles",
+    "Versailles (Branch and Bound Frameworks meeting by Bertrand Le Cun)",
     48.799796587565645, 2.1416073134333127
   ],
   [ "Dresden PARCO 2003",
