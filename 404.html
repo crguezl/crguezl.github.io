@@ -70,7 +70,7 @@ const getCatAndQuote = async function() {
     const quoteDiv = document.getElementById("quote");
     const authorDiv = document.getElementById("author");
     
-    const QuotesURL = 'https://api.quotable.io/random';
+    const QuotesURL = 'https://api.quotable.io/random/';
     console.log(`Connection to ${QuotesURL}`);
     const quoteRes = await fetch(
       QuotesURL,
