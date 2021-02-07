@@ -5,15 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">
-  Some of the places I have being
-</a>
-</p>
-
-{% endif %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<h3>Some Places I Have being as a visitor, giving talks or attending to Conferences</h3>
+
+{% if site.talkmap_link == true %}
+  <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+{% endif %}
