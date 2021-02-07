@@ -48,7 +48,7 @@ const getCatAndQuote = async function() {
     let divTitle = document.getElementById("comment-cat");
     
     let divcat = document.getElementById("cat");
-    console.log(`Initiating connection to ${URL}`);
+    console.log(`Connection to ${URL}`);
     let response = await fetch(URL, {
        headers: {
         'User-agent': 'Mozilla/4.0 Custom User Agent',
