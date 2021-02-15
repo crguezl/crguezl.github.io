@@ -75,7 +75,7 @@ var addressPoints = [
     55.79735131373854, 12.522067643848612
   ],
   [
-    "Helsinki",
+    "Helsinki EURO XII/TIMS XXXI 1992",
     60.19120650268005, 24.956858688604846
   ],
   [
@@ -89,6 +89,10 @@ var addressPoints = [
   [ "Dresden PARCO 2003",
     51.02971050602808, 13.728941831467198
   ],
+  [
+    "Compilers, Programming Languages, Related Technologies and Applications 2010",
+    41.56234104962762, -8.397084584382592
+  ],
   /*
   [
     "Berkeley CA, USA",
@@ -100,6 +104,12 @@ var addressPoints = [
     51.5073219,
     -0.1276473
   ],
+  */
+  [
+    "Nottingham-Trent University. WoTUG 19. Parallel Processing Developments",
+    52.953028999491835, -1.1870478423937245
+  ],
+  /*
   [
     "San Francisco, California",
     37.7792808,
