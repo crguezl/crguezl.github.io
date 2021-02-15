@@ -43,7 +43,7 @@ var addressPoints = [
     45.160497168923804, 10.788942542152851
   ],
   [ 
-    "Budapest (Euro PVM/MPI)",
+    "Budapest (Euro PVM/MPI 2004)",
     47.48150009987077, 19.055429753864633
   ],
   [
