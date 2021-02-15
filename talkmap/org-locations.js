@@ -109,6 +109,10 @@ var addressPoints = [
     "YAPC::EU::2001 Amsterdam",
     52.35473897092249, 4.842379125044712
   ],
+  [
+    "EuroPVM/MPI 1998 Liverpool",
+    53.402502116375764, -2.96750377768828
+  ],
   /*
   [
     "Berkeley CA, USA",
