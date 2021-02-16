@@ -1,6 +1,6 @@
 ---
 title: "People I have worked with"
-excerpt: "People I have worked with'>"
+excerpt: "People I have worked with"
 collection: portfolio
 ---
 
