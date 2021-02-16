@@ -5,7 +5,7 @@ end
 
 desc "serve locally"
 task :serve do
-  sh "bundle exec jekyll serve --future --drafts --livereload --watch --host 0.0.0.0 --port 4444"
+  sh "bundle exec jekyll serve --future --drafts --livereload --livereload-port 5555 --watch --host 0.0.0.0 --port 4444"
 end
 
 task :updatebundler do
